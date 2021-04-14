@@ -10,7 +10,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -103,3 +103,18 @@
 
 ### 作者
   QQ: 一一四七三二零五
+  
+<!-- links -->
+[your-project-path]:fuchuangxin/media
+[contributors-shield]: https://img.shields.io/github/contributors/fuchuangxin/media.svg?style=flat-square
+[contributors-url]: https://github.com/fuchuangxin/media/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/fuchuangxin/media.svg?style=flat-square
+[forks-url]: https://github.com/fuchuangxin/media/network/members
+[stars-shield]: https://img.shields.io/github/stars/fuchuangxin/media.svg?style=flat-square
+[stars-url]: https://github.com/fuchuangxin/media/stargazers
+[issues-shield]: https://img.shields.io/github/issues/fuchuangxin/media.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/fuchuangxin/media.svg
+[license-shield]: https://img.shields.io/github/license/fuchuangxin/media.svg?style=flat-square
+[license-url]: https://github.com/fuchuangxin/media/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+
